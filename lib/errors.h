@@ -1,0 +1,13 @@
+#ifndef ERRORS_H
+#define ERRORS_0
+
+#define CORRECT 1000
+#define MEMORY_ERROR 1001
+#define NO_ELEM 1002
+#define NAME_DEBLOWING 1003
+#define UNCOMPLETE_EGDE 1004
+#define EDGE_DEBLOWING 1005
+#define NO_EDGE 1006
+#define FILE_ERROR 1007
+
+#endif
